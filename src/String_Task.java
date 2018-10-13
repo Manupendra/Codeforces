@@ -4,6 +4,7 @@ import java.io.InputStreamReader;
 public class String_Task {
     static String solver(String ip) {
         ip.toLowerCase();
+        //Changes made
         return "";
     }
 
